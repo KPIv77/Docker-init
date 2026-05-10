@@ -2,6 +2,7 @@
 
 <pr>
 
-detail
+-Docker command basic
+-Docker work with project
 
 <pr>
