@@ -23,6 +23,5 @@ docker compose up -d
 
 ```
 
-## Docker work with project
 
-<pr>
+
