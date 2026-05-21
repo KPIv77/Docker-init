@@ -2,9 +2,10 @@
 <pr>
 
 
-## docker run
+## docker run/stop
 ```
 docker compose up -d
+docker compose down
 ```
 
 ## Dump database

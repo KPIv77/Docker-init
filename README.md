@@ -24,8 +24,6 @@ docker start <NAME>
 docker start <CONTAINER_ID>
 docker stop <NAME>
 docker stop <CONTAINER_ID>
-docker compose up -d
-
 ```
 
 
