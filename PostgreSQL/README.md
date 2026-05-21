@@ -13,7 +13,7 @@ docker compose up -d
 ```
 docker exec -t <CONTAINER_NAME> pg_dump -U postgres <DATABASE_NAME> > dump.sql
 ```
-### Windown
+### Windowns
 ```
 docker exec -t <CONTAINER_NAME> pg_dump -U postgres <DATABASE_NAME> | Out-File dump.sql
 ```
